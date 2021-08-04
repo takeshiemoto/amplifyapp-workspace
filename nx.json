@@ -29,10 +29,6 @@
   "projects": {
     "amplifyapp": {
       "tags": []
-    },
-    "amplifyapp-e2e": {
-      "tags": [],
-      "implicitDependencies": ["amplifyapp"]
     }
   }
 }
